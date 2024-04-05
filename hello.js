@@ -1,1 +1,1 @@
-vconsole.log("Hello")
+console.log("Hello")
